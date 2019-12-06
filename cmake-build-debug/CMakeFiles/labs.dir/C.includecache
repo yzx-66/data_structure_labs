@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/EXCS/CLION_exc/labs/lab_6/tree/createTree.c
+cstring
+C:/EXCS/CLION_exc/labs/lab_6/tree/cstring
+iostream
+C:/EXCS/CLION_exc/labs/lab_6/tree/iostream
+

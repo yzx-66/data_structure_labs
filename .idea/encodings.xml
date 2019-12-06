@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/lab_6/resource/F14.tre" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/lab_6/resource/F16.tre" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/lab_6/resource/F18.tre" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/lab_6/resource/F20.tre" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/lab_6/resource/tree10.tre" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/lab_6/resource/tree11.tre" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/lab_6/tree/createTree.cpp" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lab_6/tree/createTree.h" charset="GBK" />
+  </component>
+</project>
